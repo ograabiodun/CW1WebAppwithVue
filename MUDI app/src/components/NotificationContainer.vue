@@ -12,6 +12,8 @@
 import NotificationBar from '@/components/NotificationBar.vue'
 import { mapState } from 'vuex'
 
+
+
 export default {
   components: { NotificationBar },
   computed: mapState('notification', ['notifications'])
