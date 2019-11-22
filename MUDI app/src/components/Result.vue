@@ -24,7 +24,7 @@
           
           </footer>
           <ul class="list-group list-group-flush mt-2">
-          <li class="list-group-item">Created by: {{ result.author.firstname + " "+ result.author.lastname }}</li>
+          <li class="list-group-item"> Created by: {{ result.author.firstname + " "+ result.author.lastname }}</li>
         </ul>
         </div>
       </article>
