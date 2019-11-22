@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div id="app" style="background-color:#214B4A">
     <NavBar/>
     <NotificationContainer/>
     <router-view :key="$route.fullPath" />

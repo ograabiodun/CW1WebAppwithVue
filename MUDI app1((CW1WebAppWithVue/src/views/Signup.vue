@@ -1,7 +1,7 @@
 <template>
-  <div class="container">
-    <div class="card mt-5" style="background-color:black">
-      <div class="card-header" style="background-color:black">
+  <div class="container" > 
+    <div class="card mt-5" >
+      <div class="card-header" >
         <ul class="nav nav-pills card-header-pills">
           <li class="nav-item">
             <span style="cursor: pointer" class="nav-link" :class="{active: isLogin}"

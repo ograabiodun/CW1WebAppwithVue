@@ -1,7 +1,7 @@
 <template>
   <div class="container mt-4">
     
-    <div class="mx-auto">
+    <div class="mx-auto" style="color:white">
       <h3>Search for extra curricula classes</h3>
       <div class="form-group">
         <input type="text" class="form-control" placeholder="Enter search text" v-model="searchQuery">
@@ -38,7 +38,7 @@
         </div>
         
         <div class="col-md-12">
-          <button type="submit" class="btn btn-primary w-75% btn-block  my-4" @click.prevent="search">Search</button>
+          <button type="submit" style="background-color:black; height:50px; font-size:25px;" class="btn btn-primary w-75% btn-block  my-4" @click.prevent="search">Search</button>
         </div>
       </form>
       

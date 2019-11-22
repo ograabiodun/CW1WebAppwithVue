@@ -6,7 +6,7 @@
       <router-link :to="{ name: 'event-create' }">Create</router-link>
     </nav>
   </div>-->
-  <div class="wrapper row1">
+  <div class="wrapper row1" style="background-color:aqua;">
   <header id="header" class="hoc clear"> 
     <!-- ################################################################################################ -->
     <div id="logo" class="fl_left">

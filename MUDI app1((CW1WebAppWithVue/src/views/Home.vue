@@ -9,7 +9,7 @@
     </div>
   </div> -->
 
-<div class="wrapper bgded overlay" style="background-image:url('images/demo/backgrounds/01.png');">
+<div class="wrapper bgded overlay" style="background-image:url('images/demo/backgrounds/01.png') background-color:grey; ">
   <div id="pageintro" class="hoc clear"> 
     <!-- ################################################################################################ -->
     <article>

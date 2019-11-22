@@ -278,7 +278,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#59A209;}
 
 
 /* Content Area */
-.services article{color:inherit; background-color:#FFFFFF;}
+.services article{color:inherit; background-color:#142E2D;}
 .services article:hover{color:#FFFFFF; background-color:#142E2D;}
 
 .elements article i{border-color:#D7D7D7;}
