@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1,
+    "type": "class",
+    "title": "Music",
+    "description": "Check this out on YouTube Music. A new music service with official albums, singles, videos, remixes, live performances and more for Android, ...",
+    "price": 30,
+    "area": "music",
+    "length": 30,
+    "orientation": "individual",
+    "rating": 3,
+    "author": {
+      "firstname": "Jose",
+      "lastname": "Mourinho"
+    },
+    "review": [
+      {
+        "id": 1,
+        "name": "Broda shaggy",
+        "feedback": "Nice course. I became a better person after completing this course"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "type": "class",
+    "title": "Learn Python",
+    "description": "Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace",
+    "price": 50,
+    "area": "arts",
+    "length": 60,
+    "orientation": "individual",
+    "rating": 2,
+    "author": {
+      "firstname": "Tammy",
+      "lastname": "Abraham"
+    },
+    "review": [
+      {
+        "id": 1,
+        "name": "Broda shaggy",
+        "feedback": "Nice course. I became a better person after completing this course"
+      },
+      {
+        "id": 2,
+        "name": "Broda shaggy",
+        "feedback": "Nice course. I became interested in technology 10minutes into the course"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "type": "activity",
+    "title": "Balle Dancing",
+    "description": "Ballet is a type of performance dance that originated during the Italian Renaissance in the fifteenth century and later developed into a concert dance form in France and Russia. It has since become a widespread" ,
+    "price": 100,
+    "area": "health",
+    "length": 10,
+    "orientation": "individual",
+    "rating": 3,
+    "author": {
+      "firstname": "John",
+      "lastname": "Paul"
+    },
+    "review": [
+      {
+        "id": 1, 
+        "name": "Broda shaggy",
+        "feedback": "Nice course. I became a better person after completing this course"
+      },
+      {
+        "id": 2,
+        "name": "Broda shaggy",
+        "feedback": "Nice course. I became interested in technology 10minutes into the course"
+      }
+    ]
+  },
+   {
+    "id": 4,
+    "type": "class",
+    "title": "Using legos for AI ",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. health 2",
+    "price": 50,
+    "area": "health",
+    "length": 40,
+    "orientation": "group",
+    "rating": 1,
+    "author": {
+      "firstname": "Ekene",
+      "lastname": "Okoli"
+    },
+    "review": [
+      {
+        "id": 1,
+        "name": "Broda shaggy",
+        "feedback": "Nice course. I became a better person after completing this course"
+      },
+      {
+        "id": 2,
+        "name": "Broda shaggy",
+        "feedback": "Nice course. I became interested in technology 10minutes into the course"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "type": "activity",
+    "title": "Swimming ",
+    "description": "Greatly and tremendously splufeek",
+    "price": 50,
+    "area": "health",
+    "length": 40,
+    "orientation": "group",
+    "rating": 1,
+    "author": {
+      "firstname": "Mary",
+      "lastname": "Sweet"
+    },
+    "review": [
+      {
+        "id": 1,
+        "name": "Mary Jane",
+        "feedback": "Greatly and tremendously splufeek"
+      },
+      {
+        "id": 2,
+        "name": "Broda shaggy",
+        "feedback": "Nice course. I became interested in technology 10minutes into the course"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "type": "class",
+    "title": "Paint Balling",
+    "description": "Paintball is a competitive team shooting sport in which players eliminate opponents from play by hitting them with spherical dye-filled gelatin capsules (paintballs) that break upon impact.",
+    "price": 50,
+    "area": "sport",
+    "length": 40,
+    "orientation": "group",
+    "rating": 5,
+    "author": {
+      "firstname": "Modest",
+      "lastname": "Oko"
+    },
+    "review": [
+      {
+        "id": 1,
+        "name": "Mik Millie",
+        "feedback": "I will definately come out and be better"
+      },
+      {
+        "id": 2,
+        "name": "Lil Wayne",
+        "feedback": "Sweet"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "type": "class",
+    "title": "Bead Making",
+    "description": "fashion something is to make it in a particular form. Most commonly, fashion is defined as the prevailing style of dress or behavior at any given time, with the strong implication that fashion is characterized by change.",
+    "price": 50,
+    "area": "fashion",
+    "length": 40,
+    "orientation": "group",
+    "rating": 4,
+    "author": {
+      "firstname": "Mide",
+      "lastname": "Ara"
+    },
+    "review": [
+      {
+        "id": 1,
+        "name": "Ogra Janet",
+        "feedback": " Very Great"
+      },
+      {
+        "id": 2,
+        "name": "Rick Ross",
+        "feedback": "ABsolutely Fanstatic"
+      }
+    ]
+  }
+]
